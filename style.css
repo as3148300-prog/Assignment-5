@@ -1152,7 +1152,7 @@ footer {
     color: #000;
     font-size: 1vw;
     transition: 0.3s;
-    width: fi;
+    width: fit-content;
      
 }
 
