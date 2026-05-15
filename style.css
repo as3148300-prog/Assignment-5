@@ -225,7 +225,7 @@ color: rgba(0, 0, 0, 0.486);
     height: 70vh;
     width: 100%;
     display: flex;
-    gap: 20px;
+    gap: 30px;
     
 }
 .fourth-first-imagesection{
@@ -267,10 +267,13 @@ color: rgba(0, 0, 0, 0.486);
     font-size: 1.7vw;
     font-weight: 400;
 }
-.fourth-first-imagesection:hover .img img{
+.img:hover img{
  transform: scale(1.10);
 }
-.fourthtext:hover button{
+.formargin{
+    margin-top: 1vw;
+}
+.fourthtext button:hover {
  background-color: black;
     color: white;
 }
