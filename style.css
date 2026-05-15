@@ -684,6 +684,22 @@ justify-content: center ;
   background-position: center;
   background-size: cover;
  }
+  .sevenimage2{
+    height: 80%;
+    width: 100%;
+  background: url(https://assets-global.website-files.com/63c3f1995d4c3581bbc944b5/63c68f2e0a57ab81ad90f31f_team-02-p-500.webp);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+ }
+  .sevenimage3{
+    height: 80%;
+    width: 100%;
+  background: url(https://assets-global.website-files.com/63c3f1995d4c3581bbc944b5/63c68f2ed7fe4b9a5bef7ee1_team-03-p-500.webp);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+ }
  
  .sevenimage i{
     padding: .4vw .4vw;
@@ -1133,7 +1149,7 @@ footer {
     color: #000;
     font-size: 1vw;
     transition: 0.3s;
-    width: fit-content;
+    width: fi;
      
 }
 
